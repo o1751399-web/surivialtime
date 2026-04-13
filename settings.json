@@ -7,9 +7,9 @@
   },
   "server": {
     "ip": "1timetosurvival.aternos.me",
-    "port": ,
-    "version": "1.21.11",
-    "try-creative": true
+    "port": 25954,
+    "version": "",
+    "try-creative": false
   },
   "position": {
     "enabled": true,
